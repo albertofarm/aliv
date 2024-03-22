@@ -1,0 +1,164 @@
+Uri: https://cdn.converteai.net/9791eee0-a991-4a44-a2b8-7d779616a0d8/65b98ac18621960008939762/main.m3u8
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\9791eee0-a991-4a44-a2b8-7d779616a0d8\65b98ac18621960008939762\main.m3u8
+Content Type: application/x-mpegurl
+
+Uri: https://cdn.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\lib\js\smartplayer\v1\smartplayer.min.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsS9-SvHg.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsS9-SvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSd-OvHg.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSd-OvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSG-OvHg.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSG-OvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSgOSvHg.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSgOSvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOvHg.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeOvHg.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeOvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSvHg.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSzuSvHg.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSzuSvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaA.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1RwaA.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1RwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNRwaA.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNWwaA.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpWwaA.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaA.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaA.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaA.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://images.converteai.net/7cabe6fb-1743-48c0-b868-711ad00e8caa/players/65e8e271fe98df00088178f5/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\7cabe6fb-1743-48c0-b868-711ad00e8caa\players\65e8e271fe98df00088178f5\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://images.converteai.net/9791eee0-a991-4a44-a2b8-7d779616a0d8/players/65dd0d8a1aa1e80007821ec6/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\9791eee0-a991-4a44-a2b8-7d779616a0d8\players\65dd0d8a1aa1e80007821ec6\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://kit.fontawesome.com/5ff2bf3e95.js
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\5ff2bf3e95.js
+Content Type: text/javascript
+
+Uri: https://scripts.converteai.net/9791eee0-a991-4a44-a2b8-7d779616a0d8/players/65dd0d8a1aa1e80007821ec6/player.js
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\9791eee0-a991-4a44-a2b8-7d779616a0d8\players\65dd0d8a1aa1e80007821ec6\player.js
+Content Type: text/javascript
+
+Uri: https://vl.alivmaxxpro.com/vsl01/
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\index.htm
+Content Type: text/html
+
+Uri: https://vl.alivmaxxpro.com/vsl01/assets/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://vl.alivmaxxpro.com/vsl01/assets/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\assets\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://vl.alivmaxxpro.com/vsl01/assets/bootstrap/js/jquery-3.5.1.min.js
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\assets\bootstrap\js\jquery-3.5.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://vl.alivmaxxpro.com/vsl01/css/font/Montserrat-Bold.otf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\css\font\Montserrat-Bold.otf
+Content Type: application/x-font-woff
+
+Uri: https://vl.alivmaxxpro.com/vsl01/css/fonte/Roboto-Bold.ttf
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\css\fonte\Roboto-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://vl.alivmaxxpro.com/vsl01/css/style.css
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\css\style.css
+Content Type: text/css
+
+Uri: https://vl.alivmaxxpro.com/vsl01/imagens/1-1.png
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\imagens\1-1.png
+Content Type: image/png
+
+Uri: https://vl.alivmaxxpro.com/vsl01/imagens/2-2.png
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\imagens\2-2.png
+Content Type: image/png
+
+Uri: https://vl.alivmaxxpro.com/vsl01/imagens/3-3.png
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\imagens\3-3.png
+Content Type: image/png
+
+Uri: https://vl.alivmaxxpro.com/vsl01/imagens/depo/1.webp
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\imagens\depo\1.webp
+Content Type: image/webp
+
+Uri: https://vl.alivmaxxpro.com/vsl01/imagens/depo/15.webp
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\imagens\depo\15.webp
+Content Type: image/webp
+
+Uri: https://vl.alivmaxxpro.com/vsl01/imagens/depo/22.webp
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\imagens\depo\22.webp
+Content Type: image/webp
+
+Uri: https://vl.alivmaxxpro.com/vsl01/imagens/depo/25.webp
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\imagens\depo\25.webp
+Content Type: image/webp
+
+Uri: https://vl.alivmaxxpro.com/vsl01/imagens/garantia.webp
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\imagens\garantia.webp
+Content Type: image/webp
+
+Uri: https://vl.alivmaxxpro.com/vsl01/imagens/likes.png
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\imagens\likes.png
+Content Type: image/png
+
+Uri: https://vl.alivmaxxpro.com/vsl01/js/script.js
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\js\script.js
+Content Type: application/x-javascript
+
+Uri: https://vl.alivmaxxpro.com/vsl01/src/utmkeeper.js
+File Name: C:\Downloaded Web Sites\vsl\vl.alivmaxxpro.com\vsl01\src\utmkeeper.js
+Content Type: application/x-javascript
+
